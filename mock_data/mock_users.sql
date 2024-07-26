@@ -1,0 +1,29 @@
+INSERT INTO users (
+	username, 
+    first_name, 
+    last_name, 
+    email, 
+    user_password,
+    avatar_id
+) VALUES (
+	'kate', 
+    'Kate', 
+    'March', 
+    'k@gmail.com', 
+    '122344'
+),
+(
+    'lill', 
+    'Lilly', 
+    'Brok', 
+    'lil@gmail.com', 
+    '12fdfg2344',
+    3
+),
+(
+    'mark', 
+    'Mark', 
+    'White', 
+    'm333@gmail.com', 
+    'xfdvg545'
+);

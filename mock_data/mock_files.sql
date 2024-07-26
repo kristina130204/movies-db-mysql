@@ -1,0 +1,29 @@
+INSERT INTO files (
+	file_name, 
+    mime_type, 
+    file_key, 
+    file_url
+) VALUES (
+	    'photo1', 
+        'image/jpeg', 
+        '1238723', 
+        'photo1.jpeg'
+    ),
+    (
+	    'photo2', 
+        'image/png', 
+        'd656757', 
+        'photo2.png'
+    ),
+        (
+	    'photo3', 
+        'image/jpeg', 
+        'yhghjgj6767', 
+        'photo3.jpeg'
+    ),
+    (
+	    'photo4', 
+        'image/jpeg', 
+        '65767878', 
+        'photo4.jpeg'
+    );
