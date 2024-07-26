@@ -1,4 +1,7 @@
+ER Diagram code
+
 erDiagram
+
     FILES {
         INT id PK
         VARCHAR file_name
