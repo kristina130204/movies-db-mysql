@@ -1,3 +1,5 @@
+ER Diagram code
+
 erDiagram
 
     FILES {
